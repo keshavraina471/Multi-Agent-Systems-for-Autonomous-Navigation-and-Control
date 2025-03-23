@@ -14,11 +14,7 @@ ii) Use of Kalman filtering to reduce noise and improve the accuracy of RPM meas
 i) Calculation of linear and angular velocities from motor RPMs.<br>
 ii) Real-time position estimation (x, y, theta) using kinematic equations.<br>
 
-**3.Multi-Agent Coordination:**<br>
-i) Control of multiple motors to achieve desired trajectories.<br>
-ii) Implementation of control algorithms for both single and dual-motor systems.<br>
-
-**4. WiFi Communication:**<br>
+**3. WiFi Communication:**<br>
 i) Use of ESP8266 for WiFi communication, enabling remote monitoring and control.<br>
 ii) Setup of a local WiFi access point for real-time data transmission.<br>
 
